@@ -1,6 +1,6 @@
 ## Tema da loja ACCT
 **************************************************************************************************
-[Pré-requisitos](## 🧩 Pré-requisitos)Pré-requisitos | Tecnologias   |    Projeto   |    Layout   |    Licença
+[## 🧩 Pré-requisitos](## 🧩 Pré-requisitos) Pré-requisitos | Tecnologias   |    Projeto   |    Layout   |    Licença
 
 
 
