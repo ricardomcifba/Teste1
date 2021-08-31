@@ -1,6 +1,6 @@
 ## Tema da loja ACCT
 **************************************************************************************************
-[## 🧩 Pré-requisitos](https://github.com/EricaSugui/Teste1/blob/main/README.md#-pr%C3%A9-requisitos) Pré-requisitos | Tecnologias   |    Projeto   |    Layout   |    Licença
+[Pré-requisitos](https://github.com/EricaSugui/Teste1/blob/main/README.md#-pr%C3%A9-requisitos) | [Tecnologias](https://github.com/EricaSugui/Teste1#-tecnologias)   |    [Projeto](https://github.com/EricaSugui/Teste1#-projeto)   |    [Layout](https://github.com/EricaSugui/Teste1#-layout)   |    [Licença](https://github.com/EricaSugui/Teste1#-licen%C3%A7a)
 
 
 
